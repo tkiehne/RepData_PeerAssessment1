@@ -1,14 +1,14 @@
-```{r setoptions, message = FALSE, tidy = FALSE, echo = FALSE, warning=FALSE}
-options(width = 116, scipen = 5, digits = 2)
-
-library(stringr)
-```
 ---
 title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
     keep_md: true
 ---
+```{r setoptions, message = FALSE, tidy = FALSE, echo = FALSE, warning=FALSE}
+options(width = 116, scipen = 5, digits = 2)
+
+library(stringr)
+```
 
 ## Introduction
 
